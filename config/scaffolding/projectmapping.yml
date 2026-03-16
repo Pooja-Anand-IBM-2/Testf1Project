@@ -1,7 +1,7 @@
 version: "1.0"
 projectName: Testf1Project
 runtimes:
-- runtimeAlias: Cloud Designtime
+- runtimeAlias: r1
   assets:
   - name: fld_2041028534_stage00.projects.fl1475d92e5c804fbca1c904656d2740d2.integrations:wmioflow
     type: flow
